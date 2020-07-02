@@ -1,2 +1,2 @@
 # Machine-Learning
-Tutorial for on various machine learning algorithms 
+Tutorial on various machine learning algorithms 
